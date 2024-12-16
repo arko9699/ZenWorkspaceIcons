@@ -261,7 +261,7 @@
   },
   {
     "emoji": "🌋",
-    "description": "volcan"
+    "description": "volcano, erupt, eruption"
   },
   {
     "emoji": "🌌",
@@ -289,11 +289,11 @@
   },
   {
     "emoji": "🌒",
-    "description": "moon"
+    "description": "moon, crescent, waxing, waning"
   },
   {
     "emoji": "🌓",
-    "description": "moon"
+    "description": "moon, half"
   },
   {
     "emoji": "🌔",
@@ -313,11 +313,11 @@
   },
   {
     "emoji": "🌘",
-    "description": "moon"
+    "description": "moon, crescent, waxing, waning"
   },
   {
     "emoji": "🌙",
-    "description": "moon"
+    "description": "moon, crescent"
   },
   {
     "emoji": "🌚",
@@ -345,7 +345,7 @@
   },
   {
     "emoji": "🌠",
-    "description": "star, falling, cosmos"
+    "description": "star, falling, cosmos, shooting"
   },
   {
     "emoji": "🌭",
@@ -645,11 +645,11 @@
   },
   {
     "emoji": "🍸",
-    "description": ""
+    "description": "cocktail, drink"
   },
   {
     "emoji": "🍹",
-    "description": ""
+    "description": "cocktail, drink"
   },
   {
     "emoji": "🍺",
@@ -1049,23 +1049,23 @@
   },
   {
     "emoji": "🐀",
-    "description": ""
+    "description": "rat, rodent, animal"
   },
   {
     "emoji": "🐁",
-    "description": ""
+    "description": "mouse, rodent, animal"
   },
   {
     "emoji": "🐂",
-    "description": ""
+    "description": "ox, animal"
   },
   {
     "emoji": "🐃",
-    "description": ""
+    "description": "bull, animal"
   },
   {
     "emoji": "🐄",
-    "description": ""
+    "description": "cow, animal"
   },
   {
     "emoji": "🐅",
@@ -1085,11 +1085,11 @@
   },
   {
     "emoji": "🐉",
-    "description": ""
+    "description": "snake, reptile"
   },
   {
     "emoji": "🐊",
-    "description": ""
+    "description": "alligator, crocodile, reptile, animal"
   },
   {
     "emoji": "🐋",
@@ -1109,11 +1109,11 @@
   },
   {
     "emoji": "🐏",
-    "description": ""
+    "description": "sheep, animal"
   },
   {
     "emoji": "🐐",
-    "description": ""
+    "description": "goat, animal"
   },
   {
     "emoji": "🐑",
@@ -1121,15 +1121,15 @@
   },
   {
     "emoji": "🐒",
-    "description": ""
+    "description": "monkey, animal"
   },
   {
     "emoji": "🐓",
-    "description": ""
+    "description": "chicken, hen, animal"
   },
   {
     "emoji": "🐔",
-    "description": ""
+    "description": "cock, animal"
   },
   {
     "emoji": "🐕",
@@ -1137,7 +1137,7 @@
   },
   {
     "emoji": "🐖",
-    "description": ""
+    "description": "pig, animal"
   },
   {
     "emoji": "🐗",
@@ -1149,11 +1149,11 @@
   },
   {
     "emoji": "🐙",
-    "description": ""
+    "description": "octopus, animal, cephalopod"
   },
   {
     "emoji": "🐚",
-    "description": ""
+    "description": "seashell, conch, beach"
   },
   {
     "emoji": "🐛",
@@ -1321,27 +1321,27 @@
   },
   {
     "emoji": "👆",
-    "description": ""
+    "description": "point, up"
   },
   {
     "emoji": "👇",
-    "description": ""
+    "description": "point, down"
   },
   {
     "emoji": "👈",
-    "description": ""
+    "description": "point, left"
   },
   {
     "emoji": "👉",
-    "description": ""
+    "description": "point, right"
   },
   {
     "emoji": "👊",
-    "description": ""
+    "description": "fist, bump"
   },
   {
     "emoji": "👋",
-    "description": ""
+    "description": "wave, hi, hello, bye"
   },
   {
     "emoji": "👌",
@@ -1529,11 +1529,11 @@
   },
   {
     "emoji": "👺",
-    "description": ""
+    "description": "mask"
   },
   {
     "emoji": "👻",
-    "description": "halloween"
+    "description": "halloween, ghost, spooky, scary"
   },
   {
     "emoji": "👼",
@@ -1541,7 +1541,7 @@
   },
   {
     "emoji": "👽",
-    "description": ""
+    "description": "alien"
   },
   {
     "emoji": "👾",
@@ -1549,11 +1549,11 @@
   },
   {
     "emoji": "👿",
-    "description": ""
+    "description": "imp"
   },
   {
     "emoji": "💀",
-    "description": "horror, spooky, bones"
+    "description": "horror, spooky, bones, skull"
   },
   {
     "emoji": "💁",
@@ -1569,11 +1569,11 @@
   },
   {
     "emoji": "💄",
-    "description": "makeup"
+    "description": "makeup, lipstick"
   },
   {
     "emoji": "💅",
-    "description": "beauty, makeup"
+    "description": "beauty, makeup, nails"
   },
   {
     "emoji": "💆",
@@ -1589,15 +1589,15 @@
   },
   {
     "emoji": "💉",
-    "description": ""
+    "description": "syringe, medicine"
   },
   {
     "emoji": "💊",
-    "description": ""
+    "description": "pill, medicine"
   },
   {
     "emoji": "💋",
-    "description": ""
+    "description": "kiss, lips"
   },
   {
     "emoji": "💌",
@@ -1605,11 +1605,11 @@
   },
   {
     "emoji": "💍",
-    "description": ""
+    "description": "diamond, ring, marriage"
   },
   {
     "emoji": "💎",
-    "description": ""
+    "description": "diamond"
   },
   {
     "emoji": "💏",
@@ -1789,11 +1789,11 @@
   },
   {
     "emoji": "💻",
-    "description": ""
+    "description": "laptop, computer, portable, pc"
   },
   {
     "emoji": "💼",
-    "description": ""
+    "description": "work, briefcase"
   },
   {
     "emoji": "💽",
@@ -1801,15 +1801,15 @@
   },
   {
     "emoji": "💾",
-    "description": ""
+    "description": "floppy, disk, drive, save"
   },
   {
     "emoji": "💿",
-    "description": ""
+    "description": "cd, disc, music"
   },
   {
     "emoji": "📀",
-    "description": ""
+    "description": "cd, disc, music"
   },
   {
     "emoji": "📁",
@@ -2205,7 +2205,7 @@
   },
   {
     "emoji": "🔥",
-    "description": ""
+    "description": "fire, lit"
   },
   {
     "emoji": "🔦",
@@ -2225,11 +2225,11 @@
   },
   {
     "emoji": "🔪",
-    "description": ""
+    "description": "knife, sharp"
   },
   {
     "emoji": "🔫",
-    "description": ""
+    "description": "gun, pistol"
   },
   {
     "emoji": "🔬",
@@ -2913,15 +2913,15 @@
   },
   {
     "emoji": "🚥",
-    "description": ""
+    "description": "traffic, lights"
   },
   {
     "emoji": "🚦",
-    "description": ""
+    "description": "traffic, lights"
   },
   {
     "emoji": "🚧",
-    "description": ""
+    "description": "construction, barrier"
   },
   {
     "emoji": "🚨",
@@ -2929,7 +2929,7 @@
   },
   {
     "emoji": "🚩",
-    "description": ""
+    "description": "red, flag, checkpoint"
   },
   {
     "emoji": "🚪",
@@ -2941,7 +2941,7 @@
   },
   {
     "emoji": "🚬",
-    "description": ""
+    "description": "cigarette, smoke, smoking"
   },
   {
     "emoji": "🚭",
@@ -2969,7 +2969,7 @@
   },
   {
     "emoji": "🚳",
-    "description": ""
+    "description": "cycle, cycling, ban"
   },
   {
     "emoji": "🚴",
@@ -3009,7 +3009,7 @@
   },
   {
     "emoji": "🚽",
-    "description": ""
+    "description": "toilet"
   },
   {
     "emoji": "🚾",
@@ -3073,11 +3073,11 @@
   },
   {
     "emoji": "🤓",
-    "description": ""
+    "description": "nerd, glasses, smart"
   },
   {
     "emoji": "🤔",
-    "description": ""
+    "description": "think, wonder"
   },
   {
     "emoji": "🤕",
@@ -3085,19 +3085,19 @@
   },
   {
     "emoji": "🤖",
-    "description": ""
+    "description": "robot, bot"
   },
   {
     "emoji": "🤗",
-    "description": ""
+    "description": "hug, welcome"
   },
   {
     "emoji": "🤘",
-    "description": ""
+    "description": "rock, horns"
   },
   {
     "emoji": "🦀",
-    "description": ""
+    "description": "crab, crustacean"
   },
   {
     "emoji": "🦁",
@@ -3113,11 +3113,11 @@
   },
   {
     "emoji": "🦄",
-    "description": ""
+    "description": "unicorn"
   },
   {
     "emoji": "🧀",
-    "description": ""
+    "description": "cheese, slice, piece"
   },
   {
     "emoji": "🇦🇨",
@@ -3929,7 +3929,7 @@
   },
   {
     "emoji": "🇸🇪",
-    "description": ""
+    "description": "sweden, flag, scandinavia"
   },
   {
     "emoji": "🇸🇬",
